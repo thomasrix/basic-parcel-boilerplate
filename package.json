@@ -4,8 +4,12 @@
   "description": "Basic template",
   "main": "index.js",
   "scripts": {
+    "dev": "node deploy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "TRIX",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
