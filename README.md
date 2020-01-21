@@ -8,4 +8,6 @@ Bundles with Parceljs.
 npm run dev
 # Bundles to dev directory and starts watching for changes, 
 # serving ./src/script/index.html via http://localhost:1234 from ./dev directory
+#
+#The objective is to keep as barebones as possible.
 ```
